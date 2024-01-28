@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch+Pop&display=swap');
 .conyeiner {
     display: flex;
     justify-content: space-between;
@@ -64,9 +67,197 @@ h5 {
 .About {
     font-size: 10px;
     text-align: center;
+    font-family: 'Rubik Glitch Pop', system-ui;
     
 }
 footer {
     font-size: 7px;
     text-align: center;
+}
+.Resume1 {
+    text-align: center;
+    color: #1977f0;
+    font-size: 40px;
+}
+.main {
+    background-color: #e7e7e7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Experience1 {
+    color: #e62c3c;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+
+    
+    
+}
+.Experience {
+    border-radius: 16px;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+.info1 {
+    background-color: #f7f7f7;
+    width: 300px;
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 3px 3px 3px 3px;
+    height: 150px;
+}
+.card1 {
+    background-color: #fff;
+    display: flex;
+    font-size: 20px; 
+    padding: 10px;
+    border-radius: 20px;
+    width: 600px;
+    margin: 30px 0;
+}
+.textp1 {
+    color: #8b31a1;
+    padding: 3px;
+}
+.card2 {
+    background-color: #fff;
+    display: flex;
+    font-size: 20px; 
+    padding: 10px;
+    border-radius: 20px;
+    width: 600px;
+    margin: 20px 0;
+}
+.info2 {
+    background-color: #f7f7f7;
+    width: 635px;
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 3px 3px 3px 3px;
+    height: 150px;
+}
+.Education1 {
+    color: #e62c3c;
+    font-size: 30px;
+    text-align: center;
+
+
+    
+}
+.Education2 {
+    border-radius: 16px;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+.conyeiner21 {
+    background-color: #fff;
+    border-radius: 16px;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+
+}
+.textp21 {
+    border-radius: 6px;
+    background-color: #fcfcfc;
+    display: flex;
+    font-size: 8px;
+}
+.h32 {
+    color: #e62c3c;
+    font-size: 30px;
+    text-align:left
+}
+.h323 {
+    color: #5b4af3;
+    font-size: 30px;
+    text-align:left
+}
+.textp213 {
+    display: flex;
+    padding: 0 0 0 150px;
+    align-items: center;
+    font-size: 15px;
+    justify-content: center;
+}
+.fa-bomb {
+    padding:  0 0 0 1000px;
+}
+.fa-tiktok {
+    padding:  0 0 0 950px;
+}
+.h6 {
+    color: #5b4af3; 
+    font-size: 30px;
+    text-align: left;
+    margin: auto; 
+} 
+.textp2131 {
+    display: flex;
+    padding: 0 0 0 150px;
+    align-items: center;
+    font-size: 15px;
+    justify-content: center;
+}
+.Project1 {
+    text-align: center;
+    color: #1977f0;
+    font-size: 40px;
+}
+.Project12 {
+    background-color: #fff;
+    border-radius: 14px;
+    margin: 100px 0 0 0 ;   
+    width: 800px;
+    display: flex;
+    padding: 20px;
+
+}
+.h5678 {
+    padding: 30px;
+    font-family: 'Sixtyfour', sans-serif;
+
+}
+.img267 {
+    width: 250px;
+    height: 300x;
+    padding: 0 0 0 170px;
+}
+.p2323 {
+    padding: 30px;
+    font-family: 'Honk', system-ui;
+}
+.bage380 {
+    background-color: #000000;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+        
+}
+.section21 {
+    background-color: #d61c8f;
+    color: #fff;
+    margin:  20px; 
+    width: 99%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h232343 {
+    font-size: 40px;
+    font-family: 'Honk', system-ui;
+    text-align: center;
+}
+.bage390 {
+    background-color: #d61c8f;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
 }
